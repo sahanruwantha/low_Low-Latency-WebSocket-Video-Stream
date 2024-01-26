@@ -8,9 +8,3 @@ This project demonstrates a low-latency WebSocket-based video streaming applicat
 - WebSocket communication for low-latency data transfer.
 - Simple React UI to display incoming messages and the webcam video feed.
 
-
-## Acknowledgments
-
-- [FastAPI](https://fastapi.tiangolo.com/)
-- [React](https://reactjs.org/)
-
